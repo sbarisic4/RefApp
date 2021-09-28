@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_add_game"
+        android:orderInCategory="1"
+        android:title="@string/add_game"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_add_referee"
+        android:orderInCategory="2"
+        android:title="@string/add_referee"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:orderInCategory="3"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RefApp</string>
+    <string name="title_referees">Referees</string>
+    <string name="title_games">Games</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="valid_email_required">Valid email required</string>
+    <string name="valid_password_required">Valid password required</string>
+    <string name="user_not_exists">User not exists</string>
+    <string name="add_game">Add game</string>
+    <string name="add_referee">Add referee</string>
+    <string name="logout">Logout</string>
+    <string name="select_date">Select date</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="colon">:</string>
+    <string name="pick_game_date">Pick game date</string>
+    <string name="valid_hour_required">Valid hour required</string>
+    <string name="valid_goals_required">Valid goals required</string>
+    <string name="pick_valid_teams">Pick valid teams</string>
+    <string name="valid_minute_required">Valid minute required</string>
+    <string name="referee_name">Referee name</string>
+    <string name="valid_name_required">Valid name required</string>
+    <string name="finish_game">Finish game</string>
+    <string name="delete_game">Delete game</string>
+    <string name="location">Location</string>
+    <string name="referee">Referee: %1s</string>
+    <string name="goals">Goals</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_game">Update game</string>
+    <string name="stadium_location">Stadium location</string>
+    <string name="host_football_team_is">Host football team is %1s</string>
+</resources>
